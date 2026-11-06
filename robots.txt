@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://paulalan2509.github.io/seo-blog/sitemap.xml
